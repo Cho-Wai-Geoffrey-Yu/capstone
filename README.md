@@ -1,6 +1,6 @@
 # BBO Capstone Project — Bayesian Optimization of 8 Black-Box Functions
 
-**Author:** Geoffrey [add surname]
+**Author:** Geoffrey Yu
 **Programme:** Postgraduate ML Programme — Black-Box Optimization Capstone
 **Status:** Complete (22 query rounds, Modules 12–24)
 
